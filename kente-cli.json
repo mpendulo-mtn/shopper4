@@ -1,0 +1,22 @@
+{
+  "_pleaseNote": "Auto generated file for future use. Please do not edit",
+  "project": {
+    "name": "shopper4",
+    "description": "B",
+    "title": "",
+    "author": "S",
+    "adoTaskNumber": "1",
+    "features": {
+      "registeredInAppStore": false,
+      "semanticRelease": false,
+      "repoName": "shopper4"
+    },
+    "template": "containerised-template"
+  },
+  "runtime": {
+    "cli": "1.0.0",
+    "node": "v20.11.1",
+    "path": "shopper4"
+  },
+  "version": "1.0.0"
+}
